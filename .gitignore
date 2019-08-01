@@ -1,0 +1,14 @@
+
+# Other files and folders
+.idea/
+out/
+
+# idea
+*.iml
+
+# ecilpse
+/target/
+.classpath
+.project
+/target/**
+.settings
